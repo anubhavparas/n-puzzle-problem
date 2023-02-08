@@ -1,4 +1,6 @@
 # N-Puzzle Problem
+
+### 8 Puzzle Example:
 ![npuzzle](https://user-images.githubusercontent.com/32901101/217668406-bfec29a3-30bf-436b-87aa-e55d2440ef99.gif)
 
 #### This is the N-Puzzle problem where N = (MxM - 1) and M > 2
