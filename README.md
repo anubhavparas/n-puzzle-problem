@@ -1,6 +1,11 @@
 # N-Puzzle Problem
+![npuzzle](https://user-images.githubusercontent.com/32901101/217668406-bfec29a3-30bf-436b-87aa-e55d2440ef99.gif)
+
 #### This is the N-Puzzle problem where N = (MxM - 1) and M > 2
 - The numbers from 1 to N and an empty tile(or zero) are placed randomly in a 2-D MxM matrix (tiles) and the goal is to move the empty tile to attain a target position (here, numbers arranged row-wise in increasing order with the last cell empty)
+
+
+
 
 #### This solution uses simple breadth first search(BFS) algorithm to find the path to the target state
 
